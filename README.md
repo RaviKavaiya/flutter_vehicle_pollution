@@ -27,7 +27,7 @@ This is a basic Flutter Application, which calculates your vehicle's CO2 emissio
 - Form validations
 - Flare animations for low and high pollutions
 - Supported fuels: Diesel, Petrol, CNG, LPG
-- Most important, the .dart source code is less than 5KB! (Only 5104 bytes)
+- Most important, the .dart source code is **less than 5KB!** (Only 5104 bytes)
 
 ##
 ## Credits
