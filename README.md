@@ -46,4 +46,12 @@ This is a basic Flutter Application, which calculates your vehicle's CO2 emissio
 - So, we can take **4.8816** ton CO2 emitted per person in 2018 *(approx.)*
 
 
+# Troubleshooting
+
+- This was developed on Windows system. But when I tried to open this project in macOS and vice versa, it gave me an error.
+- As a workaround, delete the '.packages' file in the project directory(it will be a hidden file) to get it working
+- Another bug I faced was in flare_flutter package. It was not animating, just displaying. As a workaround, delete the flare_dart and flare_flutter packages in the flutter's cache (in system, not the project) and re-run the project
+
+
+
 
