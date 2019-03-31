@@ -38,6 +38,9 @@ This is a basic Flutter Application, which calculates your vehicle's CO2 emissio
 - [Population data](https://www.prb.org/2018-world-population-data-sheet-with-focus-on-changing-age-structures/)
 - [Worldwide pollution data](https://www.scientificamerican.com/article/co2-emissions-reached-an-all-time-high-in-2018/)
 - Most important: [How I calculated the CO2 emission](http://ecoscore.be/en/info/ecoscore/co2)
+- [Flare animation 1](https://www.2dimensions.com/a/innocent/files/flare/status_error)
+- [Flare animation 2](https://www.2dimensions.com/a/innocent/files/flare/status_success)
+
 
 ## Notes
 
