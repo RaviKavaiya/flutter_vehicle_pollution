@@ -1,5 +1,7 @@
 # flutter_vehicle_pollution
 
+Note : This is the project, which was submitted to the contest 'Flutter Create'
+
 A Flutter application that calculates CO2 emission of vehicles and tells whether you need to take care
 
 This is a basic Flutter Application, which calculates your vehicle's CO2 emission in a year...
